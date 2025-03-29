@@ -36,7 +36,7 @@ npm run dev
 
 📚 Recursos adicionales
 
-Para obtener más información sobre la implementación de pestañas, visita: Simple Tabs Project.
+Para obtener más información sobre la implementación de pestañas, visita: https://roadmap.sh/projects/simple-tabs
 
 👤 Autor
 
